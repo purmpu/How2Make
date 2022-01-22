@@ -13,4 +13,4 @@ while True:
     pygame.display.update()     #while루프를 도는동안 일어나는 변화들일 display에 표시함. 말그대로 update
 
 
-#pygame.draw.rect(screen,(0,255,0),(100,100,40,30) 원이 아닌 직사각형일때는 100,100이 왼쪽 위 꼭짓점의 위치, 가로세로의 길이 
+#pygame.draw.rect(screen,(0,255,0),(100,100,40,30) 원이 아닌 직사각형일때는 100,100이 왼쪽 위 꼭짓점의 위치, 가로세로의 길이.
